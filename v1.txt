@@ -6,3 +6,5 @@ Git is free software.  new line
 
 
 Git is free software.  new line2
+
+Git is free software.  new line3
