@@ -1,0 +1,12 @@
+v1 test file asdas 阿斯蒂芬
+Git is a version control system.
+Git is free software.
+
+Git is free software.  new line
+
+
+Git is free software.  new line2
+
+Git is free software.  new line3
+
+Git is free software.  new line4
